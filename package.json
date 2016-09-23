@@ -1,7 +1,7 @@
 {
-  "name": "hexo-theme-beautiful-hexo",
+  "name": "nolanr-hexo",
   "version": "1.0.0",
-  "description": "A hexo theme migarte from beautiful-jekyll",
+  "description": "A hexo theme migarte from beautiful-hexo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,12 +9,13 @@
   "keywords": [
     "hexo",
     "theme",
-    "beautiful-hexo"
+    "beautiful-hexo",
+    "nolanr-hexo"
   ],
   "author": "twoyao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/twoyao/beautiful-hexo/issues"
+    "url": "https://github.com/NolanRoose/nolanr-hexo/issues"
   },
-  "homepage": "https://twoyao.github.io/beautiful-hexo/#readme"
+  "homepage": "https://github.com/NolanRoose/nolanr-hexo/#readme"
 }
